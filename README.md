@@ -9,7 +9,7 @@ This collection is in A-Z order. Issues are turned-off, please use the Pull Requ
 ### Canada
 #### Ontario
 - [McMaster University Sherman Centre for Digital Scholarship](https://github.com/scds)
-- [St. Lawrence College](https://github.com/slclibraries)
+- [St. Lawrence College Libraries](https://github.com/slclibraries)
 ### United States
 #### Nebraksa
 - University of Nebraska-Lincoln
