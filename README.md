@@ -14,6 +14,8 @@ When you submit an issue or request please include the following:
 ### Canada
 #### Ontario
 [St. Lawrence College](https://github.com/slclibraries)
+
+[McMaster University Sherman Centre for Digital Scholarship](https://github.com/scds)
 ### United States
 ### Mexico
 ## Oceania
