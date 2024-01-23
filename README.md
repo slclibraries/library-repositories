@@ -2,6 +2,11 @@
 A collection of all known College and University libraries that use GitHub, or another similar space, to host their code.
 This collection is in A-Z order.
 
+When you submit an issue or request please include the following:
+* Location
+* Institution Name
+* Repository Link (GitHub, Codeberg, Gitea, or similar)
+
 ## Africa
 ## Asia
 ## Europe
