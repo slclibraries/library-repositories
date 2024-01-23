@@ -8,7 +8,9 @@
 A collection of all known post-secondary libraries that use GitHub, or another similar space, to host their code. Please use the Pull Requests tab to add your library to this list. Pull requests are merged Monday to Friday, 8am to 4pm EST.
 
 Goal: There isn't one other than the sharing of knowledge. Has your library done something neat with your website, or the public-facing side of your library catalogue? Why not share it?
+
 ---
+
 ## Africa
 ## Asia
 ## Europe
