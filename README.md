@@ -12,6 +12,10 @@ This collection is in A-Z order. Issues are turned-off, please use the Pull Requ
 
 [McMaster University Sherman Centre for Digital Scholarship](https://github.com/scds)
 ### United States
+#### Nebraksa
+- University of Nebraska-Lincoln
+  - [UNL Libraries](https://github.com/unl-libraries)
+  - [Center for Digital Research in the Humanities](https://github.com/CDRH/)
 ### Mexico
 ## Oceania
 ## South America
