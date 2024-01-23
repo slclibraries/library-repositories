@@ -5,7 +5,7 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 # Library Repositories
-A collection of all known College and University libraries that use GitHub, or another similar space, to host their code. Please use the Pull Requests tab too add your library to this list.
+A collection of all known College and University libraries that use GitHub, or another similar space, to host their code. Please use the Pull Requests tab to add your library to this list.
 
 ## Africa
 ## Asia
