@@ -14,6 +14,7 @@ This collection is in A-Z order. Issues are turned-off, please use the Pull Requ
 ## North America
 ### Canada
 #### Ontario
+- [Ontario College Library Service](https://github.com/oclservice)
 - [McMaster University Sherman Centre for Digital Scholarship](https://github.com/scds)
 - [St. Lawrence College Libraries](https://github.com/slclibraries)
 ### United States
