@@ -8,8 +8,8 @@ This collection is in A-Z order. Issues are turned-off, please use the Pull Requ
 ## North America
 ### Canada
 #### Ontario
-- [St. Lawrence College](https://github.com/slclibraries)
 - [McMaster University Sherman Centre for Digital Scholarship](https://github.com/scds)
+- [St. Lawrence College](https://github.com/slclibraries)
 ### United States
 #### Nebraksa
 - University of Nebraska-Lincoln
