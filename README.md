@@ -1,3 +1,4 @@
+[![CC BY 4.0][cc-by-image]][cc-by]
 # Library Repositories
 A collection of all known College and University libraries that use GitHub, or another similar space, to host their code.
 This collection is in A-Z order. Issues are turned-off, please use the Pull Request tab.
@@ -19,12 +20,8 @@ This collection is in A-Z order. Issues are turned-off, please use the Pull Requ
 ## Oceania
 ## South America
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
