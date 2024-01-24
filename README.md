@@ -21,6 +21,8 @@ Goal: There isn't one other than the sharing of knowledge.
 - [McMaster University Sherman Centre for Digital Scholarship](https://github.com/scds)
 - [St. Lawrence College Libraries](https://github.com/slclibraries)
 ### United States
+#### California
+- [California Institute of Technology Library](https://github.com/caltechlibrary)
 #### Nebraksa
 - University of Nebraska-Lincoln
   - [UNL Libraries](https://github.com/unl-libraries)
