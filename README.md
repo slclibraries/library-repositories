@@ -23,6 +23,7 @@ Goal: There isn't one other than the sharing of knowledge.
 ### United States
 #### California
 - [California College of the Arts Libraries](https://github.com/cca)
+- [California Institute of Technology Library](https://github.com/caltechlibrary)
 #### Nebraksa
 - University of Nebraska-Lincoln
   - [UNL Libraries](https://github.com/unl-libraries)
