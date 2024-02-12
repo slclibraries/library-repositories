@@ -5,9 +5,11 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 # Library Repositories
-A collection of all known post-secondary libraries that use GitHub, or another similar space, to host their code. Please use the Pull Requests tab to add your library to this list. Pull requests are merged Monday to Friday, 8am to 4pm EST.
-
-Goal: There isn't one other than the sharing of knowledge.
+Who? All post-secondary (college and universoty) libraries.
+What? A collection of those who use GitHub, or another similar space, to host their code. Any code, even libraries!
+When? Pull requests are merged Monday to Friday, 8am to 4pm EST.
+Where? Please use the Pull Requests tab to add your library to this list.
+Why? There currently isn't any kind of "goal" other than the sharing of knowledge.
 
 ---
 
