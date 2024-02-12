@@ -21,6 +21,8 @@ Goal: There isn't one other than the sharing of knowledge.
 - [McMaster University Sherman Centre for Digital Scholarship](https://github.com/scds)
 - [St. Lawrence College Libraries](https://github.com/slclibraries)
 ### United States
+#### Arizona
+- [Arizona State University](https://github.com/asulibraries)
 #### California
 - [California College of the Arts Libraries](https://github.com/cca)
 - [California Institute of Technology Library](https://github.com/caltechlibrary)
@@ -28,8 +30,6 @@ Goal: There isn't one other than the sharing of knowledge.
 - University of Nebraska-Lincoln
   - [UNL Libraries](https://github.com/unl-libraries)
   - [Center for Digital Research in the Humanities](https://github.com/CDRH/)
-#### Arizona
-- [Arizona State University](https://github.com/asulibraries)
 ### Mexico
 ## Oceania
 ## South America
