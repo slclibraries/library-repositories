@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![CC BY 4.0][cc-by-image]][cc-by] 
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
