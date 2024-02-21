@@ -5,7 +5,7 @@
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-# Library Repositories
+# Awesome Library Repositories
 Who? All post-secondary (college and university) libraries.
 
 What? A collection of those who use GitHub, or another similar space, to host their code. Any code, even libraries!
